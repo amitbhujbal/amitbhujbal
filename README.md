@@ -4,8 +4,7 @@
 [![Resume](https://img.shields.io/badge/Resume-Amit%20Bhujbal-222222.svg)](https://amitbhujbal.com/cv)
 [![BlueSky](https://img.shields.io/badge/BlueSky-%40amitbhujbal-0c66c3.svg)](https://bsky.app/profile/amitbhujbal.bsky.social)
 
-### Hi 👋, I'm Amit Bhujbal
-
+Hi 👋, I'm Amit Bhujbal
 I'm a **macOS & iOS Developer** fueled by a passion for **Swift** and **SwiftUI**, always learning and building.  
 With a strong dedication to expanding my app development skills, I'm focused and curious about the latest in tech.  
 
