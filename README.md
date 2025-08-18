@@ -9,3 +9,6 @@ I'm a **macOS & iOS Developer** fueled by a passion for **Swift** and **SwiftUI*
 With a strong dedication to expanding my app development skills, I'm focused and curious about the latest in tech.  
 
 Outside of coding, I draw inspiration from **painting** and **photography**, shaping my design sensibilities.
+
+## Projects
+- [sysinfo](https://github.com/amitbhujbal/sysinfo) — A Python CLI to view system information easily.
