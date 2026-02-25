@@ -10,5 +10,12 @@ With a strong dedication to expanding my app development skills, I'm focused and
 
 Outside of coding, I draw inspiration from **painting** and **photography**, shaping my design sensibilities.
 
-## Projects
+## Current Projects
 - [sysinfo](https://github.com/amitbhujbal/sysinfo) — A Python CLI to view system information easily.
+
+## iOS Projects
+- [Project-BasicAnimations](https://github.com/amitbhujbal/Project-BasicAnimations) - UIKit animation examples using UIView and Core Animation.
+- [Project-QRCode](https://github.com/amitbhujbal/Project-QRCode) - Generate and scan QR codes using CoreImage and AVFoundation.
+- [Project-RestAPI](https://github.com/amitbhujbal/Project-RestAPI) - Fetch and display products using URLSession and Codable.
+- [Project-MiniBrowser](https://github.com/amitbhujbal/Project-MiniBrowser) - Lightweight in-app browser built with WKWebView.
+- [Project-PersonForm](https://github.com/amitbhujbal/Project-PersonForm) - CRUD app using Core Data with CSV export functionality.
