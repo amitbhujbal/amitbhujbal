@@ -10,7 +10,7 @@ With a strong dedication to expanding my app development skills, I'm focused and
 
 Outside of coding, I draw inspiration from **painting** and **photography**, shaping my design sensibilities.
 
-## Current Projects
+## Current Project
 - [sysinfo](https://github.com/amitbhujbal/sysinfo) — A Python CLI to view system information easily.
 
 ## iOS Projects
