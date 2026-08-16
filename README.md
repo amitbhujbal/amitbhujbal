@@ -3,11 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40amitbhujbal-239a3b.svg)](https://github.com/amitbhujbal)
 [![Resume](https://img.shields.io/badge/Resume-Amit%20Bhujbal-222222.svg)](https://amitbhujbal.com/cv)
 
-Hi 👋, I'm Amit Bhujbal<br>
-I'm a **macOS & iOS Developer** fuelled by a passion for **Swift** and **SwiftUI**, always learning and building.  
-With a strong dedication to expanding my app development skills, I'm focused and curious about the latest in technology.
+Hi 👋, I'm a **macOS & iOS Developer** fuelled by a passion for **Swift** and **SwiftUI**, always learning and building. 
 
-Outside of coding, I draw inspiration from **painting** and **photography**, which shape my design sensibilities.
+With a strong dedication to expanding my app development skills, I'm focused and curious about the latest in technology. Outside of coding, I draw inspiration from **painting** and **photography**, which shape my design sensibilities.
 
 ## Current Project
 
